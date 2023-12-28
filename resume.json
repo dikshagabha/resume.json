@@ -5,9 +5,8 @@
   "basics": {
     "name": "Diksha Gabha",
     "label": "Software Developer",
-    //"image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
     "summary": "Experienced Django Developer passionate about building scalable web applications. Skilled in MVC architecture, ORM, and RESTful APIs. Dedicated to delivering high-quality code and staying updated with the latest technologies. Proactive problem solver with attention to detail.",
-    //"website": "https://lordajax.com",
+   
     "email": "diksha.gabha95@gmail.com",
     "location": {
       "city": "Bangalore",
@@ -37,24 +36,7 @@
       "institution": "Panjab University"
     }
   ],
-  // "references": [
-  //   {
-  //     "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
-  //     "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
-  //   },
-  //   {
-  //     "reference": "I've had the great pleasure of working with Thomas for the past three years at Earbits, and on a few side projects. Two years ago our CTO left on a moment's notice, Thomas saved our company by quickly stepping up to fill this role. He has been with our company through thick and thin and made serious personal sacrifices in order to help the company during tough times. He is a phenomenal hacker and a true team player. Highly recommended!",
-  //     "name": "Yotam Rosenbaum, SVP of Operations, Earbits, Inc."
-  //   },
-  //   {
-  //     "reference": "Thomas is an extremely talented engineer with a very broad range of skills and experience. From being a thought leader in the front-end community via backbonetutorials.com and cdnjs.com, to designing and implementing the API for cdnjs.com, working with Thomas has been fantastic learning experience. Thomas is truly a full stack develop, and his work output is incredible. If there is any opportunity to work with Thomas, I take it. He is the definition of an A player.",
-  //     "name": "Ryan Kirkman, Senior Software Engineer at Nerdwallet"
-  //   },
-  //   {
-  //     "reference": "On Thomas Davis... Hire this guy. Do not be fooled. Incredibly capable and fast. Plays well with others. Unbelievable at front-end work end programming but that is just the start. Visionary. Hire him before I do.",
-  //     "name": "Greg Davis"
-  //   }
-  // ],
+ 
   "skills": [
     {
       "keywords": [
@@ -68,23 +50,9 @@
       "level": "Senior",
       "name": "Backend"
     },
-    // {
-    //   "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
-    //   "level": "Senior",
-    //   "name": "Backend"
-    // },
-    // {
-    //   "keywords": ["AWS", "G Cloud", "Heroku", "Caching"],
-    //   "level": "Senior",
-    //   "name": "Devops"
-    // }
+   
   ],
-  // "awards": [
-  //   {
-  //     "title": "Defender of the Internet",
-  //     "awarder": "Fight For The Future"
-  //   }
-  // ],
+ 
   "work": [
     {
       //"summary": "",
@@ -97,8 +65,7 @@
 					"Designed and Integrated the application's database, ensuring data integrity, optimization, and scalability. Proficiency in working with SQL databases and Django's Object-Relational Mapping (ORM) is essential for the success of this project."]
     },
     {
-      //"summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      //"website": "https://platform.blockbid.io",
+      
       "name": "Daffodil Software",
       "location": "Gurgaon",
       "position": "Senior Software Developer",
@@ -113,8 +80,7 @@
       ]
     },
     {
-      //"summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      //"website": "https://platform.blockbid.io",
+      
       "name": "Assisteasy",
       "location": "Gurgaon",
       "position": "Software Developer",
